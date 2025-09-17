@@ -1,0 +1,22 @@
+export const catalogoLibros = [
+    { genero: "romance", id: "rom-notebook", nombre: "The Notebook", autor: "Nicholas Sparks", calificacion: 4.16, url: "https://www.goodreads.com/book/show/33648131-the-notebook", src: "img/rom-notebook.jpg", precio: 4.99 },
+    { genero: "romance", id: "rom-twilight", nombre: "Twilight", autor: "Stephenie Meyer", calificacion: 3.67, url: "https://www.goodreads.com/book/show/41865.Twilight", src: "img/rom-twilight.jpg", precio: 5.99 },
+    { genero: "romance", id: "rom-romeojuliet", nombre: "Romeo and Juliet", autor: "William Shakespeare", calificacion: 3.74, url: "https://www.goodreads.com/book/show/59926998-romeo-and-juliet", src: "img/rom-romeojuliet.jpg", precio: 6.99 },
+    { genero: "romance", id: "rom-pride", nombre: "Pride and Prejudice", autor: "Jane Austen", calificacion: 4.29, url: "https://www.goodreads.com/book/show/129915654-pride-and-prejudice", src: "img/rom-pride.jpg", precio: 7.99 },
+    { genero: "romance", id: "rom-court", nombre: "A Court of Thorns and Roses", autor: "Sarah J. Maas", calificacion: 4.17, url: "https://www.goodreads.com/book/show/16096824-a-court-of-thorns-and-roses", src: "img/rom-court.jpg", precio: 8.99 },
+    { genero: "horror", id: "terr-shining", nombre: "The Shining", autor: "Stephen King", calificacion: 4.28, url: "https://www.goodreads.com/book/show/11588.The_Shining", src: "img/terr-shining.jpg", precio: 9.99 },
+    { genero: "horror", id: "terr-warz", nombre: "World War Z", autor: "Max Brooks", calificacion: 4.02, url: "https://www.goodreads.com/book/show/8908.World_War_Z", src: "img/terr-warz.jpg", precio: 10.99 },
+    { genero: "horror", id: "terr-battle", nombre: "Battle Royale", autor: "Koushun Takami", calificacion: 4.26, url: "https://www.goodreads.com/book/show/57891.Battle_Royale", src: "img/terr-battle.jpg", precio: 11.99 },
+    { genero: "horror", id: "terr-dracula", nombre: "Dracula", autor: "Bram Stoker", calificacion: 4.02, url: "https://www.goodreads.com/book/show/17245.Dracula", src: "img/terr-dracula.jpg", precio: 12.99 },
+    { genero: "horror", id: "terr-frank", nombre: "Frankenstein", autor: "Mary Shelley", calificacion: 3.89, url: "https://www.goodreads.com/book/show/34913533-frankenstein", src: "img/terr-frank.jpg", precio: 13.99 },
+    { genero: "science-fiction", id: "sci-ender", nombre: "Ender’s Game", autor: "Orson Scott Card", calificacion: 4.31, url: "https://www.goodreads.com/book/show/375802.Ender_s_Game", src: "img/sci-ender.jpg", precio: 14.99 },
+    { genero: "science-fiction", id: "sci-ready", nombre: "Ready Player One", autor: "Ernest Cline", calificacion: 4.23, url: "https://www.goodreads.com/book/show/9969571-ready-player-one", src: "img/sci-ready.jpg", precio: 15.99 },
+    { genero: "science-fiction", id: "sci-dune", nombre: "Dune", autor: "Frank Herbert", calificacion: 4.28, url: "https://www.goodreads.com/book/show/44767458-dune", src: "img/sci-dune.jpg", precio: 16.99 },
+    { genero: "science-fiction", id: "sci-martian", nombre: "The Martian", autor: "Andy Weir", calificacion: 4.42, url: "https://www.goodreads.com/book/show/18007564-the-martian", src: "img/sci-martian.jpg", precio: 4.99 },
+    { genero: "science-fiction", id: "sci-foundation", nombre: "Foundation", autor: "Isaac Asimov", calificacion: 4.17, url: "https://www.goodreads.com/book/show/29579.Foundation", src: "img/sci-foundation.jpg", precio: 5.99 },
+    { genero: "fantasy", id: "com-batman", nombre: "Batman: The Killing Joke", autor: "Alan Moore", calificacion: 4.36, url: "https://www.goodreads.com/book/show/96358.Batman", src: "img/com-batman.jpg", precio: 21.99 },
+    { genero: "fantasy", id: "com-sandman", nombre: "The Sandman, Vol. 1: Preludes & Nocturnes", autor: "Neil Gaiman", calificacion: 4.25, url: "https://www.goodreads.com/book/show/23754.The_Sandman_Vol_1", src: "img/com-sandman.jpg", precio: 12.99 },
+    { genero: "fantasy", id: "com-watchmen", nombre: "Watchmen", autor: "Alan Moore", calificacion: 4.39, url: "https://www.goodreads.com/book/show/472331.Watchmen", src: "img/com-watchmen.jpg", precio: 2.99 },
+    { genero: "fantasy", id: "com-nimona", nombre: "Nimona", autor: "N.D. Stevenson", calificacion: 4.18, url: "https://www.goodreads.com/book/show/19351043-nimona", src: "img/com-nimona.jpg", precio: 4.99 },
+    { genero: "fantasy", id: "com-saga", nombre: "Saga, Volume 1", autor: "Brian K. Vaughan", calificacion: 4.16, url: "https://www.goodreads.com/book/show/15704307-saga-volume-1", src: "img/com-saga.jpg", precio: 6.99 }
+];

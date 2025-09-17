@@ -9,11 +9,12 @@ function NavBar() {
             <div>
                 <img src={logo} alt="Logo" width="128px" />
             </div>
-            <h1 className='title'>Shop Name</h1>
+            <h1 className='title'>Book Shop</h1>
             <ul className='navList'>
-                <li><a href="">Option 1</a></li>
-                <li><a href="">Option 2</a></li>
-                <li><a href="">Option 3</a></li>
+                <li><a href="">Romance</a></li>
+                <li><a href="">Horror</a></li>
+                <li><a href="">Science Fiction</a></li>
+                <li><a href="">Fantasy</a></li>
             </ul>
         </div>
         
