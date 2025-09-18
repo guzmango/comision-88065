@@ -7,9 +7,6 @@ function Item({nombre, precio, autor, id}) {
             <Link to={`/products/${id}`}>{nombre}</Link>
             <p><i>{autor}</i></p>
             <p><b>Price: </b>${precio}</p>
-
-            {/* TODO */}
-            {/* agregar interfaz que posteriormente les permita agregar unidades al carrito. */}
         </div>
     )
 }

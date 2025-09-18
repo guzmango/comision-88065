@@ -5,14 +5,27 @@
   text-align: center;
 }
 
+.item-list {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 35px;
+}
+
 .card {
   padding: 2em;
-  background-color: beige;
+  background-color:ghostwhite;
+  border: solid 1px gainsboro;
   margin-bottom: 20px;
+  width: 250px;
+}
+
+.card a {
+  color:steelblue;
 }
 
 .navbar-section {
-  width: 80vw;
   margin-bottom: 30px;
   padding: 20px;
   border-bottom: #888 solid 1px;
